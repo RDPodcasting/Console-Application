@@ -1,6 +1,4 @@
-#### Estrutura
-                
-+ Mytemplate
+#### Estrutura My template
 + .template.config
     + template.json
 + MyProject.Console.csproj
