@@ -1,3 +1,5 @@
+![.github/workflows/workflow01.yaml](https://github.com/RDPodcasting/Console-Application/workflows/.github/workflows/workflow01.yaml/badge.svg)
+
 #### Estrutura My template
 + .template.config
     + template.json
